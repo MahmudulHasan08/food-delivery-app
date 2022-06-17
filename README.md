@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+#images
+<img src="./assets/images/food1.jpg" height=400 width=300 title="Food img"/>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
